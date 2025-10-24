@@ -1,5 +1,7 @@
 # Hi, I am Pascal Lehnert
 
-- 💻 I'm a freelance web developer @ ``www.delennerd.media``
-- ⚡️ My tech stack: JS, TypeScript, PHP, MySQL, WordPress (Creating Theme and Plugins), Laravel and VueJS
+- 💻 I'm a software developer @ ``Bosch``
+- 💻 I'm a freelance web developer @ ``www.delennerd.media`` 
+- ⚡️ My tech stack: Laravel, VueJS, Nuxt, TypeScript, JS, PHP, MySQL, WordPress (Creating Theme and Plugins)
 - 🥁 I playing drums
+- 🎙️ Making internet radio @ [``Rautemusik Main``](https://rm.fm/main)
